@@ -22,3 +22,6 @@ At the moment, I am hoping I will have collected my own data in the new few mont
 My experiment will be similar to this dataset but will not have different treatments as all particiapnts will be in the losing condition. 
 Additionally, the switching preference will not be on a likert scale, but simply a binary yes or no. 
 I will also be measuring individuals perseverance levels and we will be looking at whether their perseverance levels has any influence on their desire to switch or keep trying after losing.
+
+
+For this assignment I used, StackOverflow to get tips on how to check for missing values and ChatGPT to streamline my understanding. 
