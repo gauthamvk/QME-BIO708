@@ -29,9 +29,9 @@ For this assignment I used, StackOverflow to get tips on how to check for missin
 ##Assignment 3
 The script I made for this assignment is located in :/hw3Jan23/scripts/assignment_3.R and the main working directory is QMEE folder where all the sub directories are located 
 
-So for plot 1 I was trying to show how participants' positive and negative affect scores change from baseline to post, in each win and loss conditions. The goal for me was to be able to visualize the changes through the use of the linegraph to show in which direction the data was moving. 
+For plot 1 I was trying to show how participants' positive and negative affect scores change from baseline to post, in each win and loss conditions. The goal for me was to be able to visualize the changes through the use of the linegraph to show in which direction the data was moving. 
 I was hoping to see the patterns and within participant changes across time. 
-Converting the data into long format allowed me to manipulate the data in the necessary ways to graph it. I needed each participant to have data for their baseline(negative), post(negative), baseline(positive), and post positive. The 135 participants were then divided into their assigned treatments respectively. 
+Converting the data into long format allowed me to manipulate the data in the necessary ways to graph it. I needed each participant to have data for their baseline(negative), post(negative), baseline(positive), and post(positive). The 135 participants were then divided into their assigned treatments respectively. 
 Pivot longer allowed me to ensure these important pieces of data could be used to graph. I added the boxplots to be able to summarize the between participants distribution. Jitter allowed to reduce the overlap between the points. 
 The observations had lines which emphasized within participant change and it was put on a common y axis, which follows the Cleveland Hierarchy.
 Faceting allowed me to place multiple similar graphs in close proximity for comparison. The transparency and jitter also increases how much information is shown at a time while avoiding overlap. 
